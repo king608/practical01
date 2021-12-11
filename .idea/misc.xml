@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/practical01/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.184375" />
+        <entry key="..\:/Android/practical01/app/src/main/res/drawable/back.xml" value="0.26564102564102565" />
+        <entry key="..\:/Android/practical01/app/src/main/res/drawable/bg_username.xml" value="0.26979166666666665" />
+        <entry key="..\:/Android/practical01/app/src/main/res/drawable/category.xml" value="0.14791666666666667" />
+        <entry key="..\:/Android/practical01/app/src/main/res/drawable/changfx.xml" value="0.19322916666666667" />
+        <entry key="..\:/Android/practical01/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.23854166666666668" />
+        <entry key="..\:/Android/practical01/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26564102564102565" />
+        <entry key="..\:/Android/practical01/app/src/main/res/drawable/ic_lock.xml" value="0.23854166666666668" />
+        <entry key="..\:/Android/practical01/app/src/main/res/drawable/money.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/practical01/app/src/main/res/drawable/person.xml" value="0.23854166666666668" />
+        <entry key="..\:/Android/practical01/app/src/main/res/drawable/round_bg.xml" value="1.1178571428571429" />
+        <entry key="..\:/Android/practical01/app/src/main/res/drawable/round_border.xml" value="0.23854166666666668" />
+        <entry key="..\:/Android/practical01/app/src/main/res/layout/activity_add_lavish.xml" value="0.17552083333333332" />
+        <entry key="..\:/Android/practical01/app/src/main/res/layout/activity_addlavish.xml" value="0.17552083333333332" />
+        <entry key="..\:/Android/practical01/app/src/main/res/layout/activity_data_manager.xml" value="0.1" />
+        <entry key="..\:/Android/practical01/app/src/main/res/layout/activity_function.xml" value="0.1" />
+        <entry key="..\:/Android/practical01/app/src/main/res/layout/activity_income.xml" value="0.2" />
+        <entry key="..\:/Android/practical01/app/src/main/res/layout/activity_lavish.xml" value="0.21145833333333333" />
+        <entry key="..\:/Android/practical01/app/src/main/res/layout/activity_lavish_manage.xml" value="0.17760416666666667" />
+        <entry key="..\:/Android/practical01/app/src/main/res/layout/activity_list_income.xml" value="0.264" />
+        <entry key="..\:/Android/practical01/app/src/main/res/layout/activity_list_outcome.xml" value="0.19114583333333332" />
+        <entry key="..\:/Android/practical01/app/src/main/res/layout/activity_main.xml" value="0.567524115755627" />
+        <entry key="..\:/Android/practical01/app/src/main/res/layout/activity_modify_lavish.xml" value="0.1859375" />
+        <entry key="..\:/Android/practical01/app/src/main/res/layout/activity_outcome.xml" value="0.1" />
+        <entry key="..\:/Android/practical01/app/src/main/res/layout/activity_register.xml" value="0.1459227467811159" />
+        <entry key="..\:/Android/practical01/app/src/main/res/layout/activity_system_settings.xml" value="0.1" />
+        <entry key="..\:/Android/practical01/app/src/main/res/layout/list_item.xml" value="0.1" />
+        <entry key="..\:/Android/practical01/app/src/main/res/layout/list_item_lavish.xml" value="0.1574074074074074" />
+        <entry key="..\:/Android/practical01/app/src/main/res/layout/list_itm_out.xml" value="0.1265625" />
+        <entry key="..\:/Android/practical01/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.23854166666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

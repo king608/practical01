@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="in_category">
+        <item>工资</item>
+        <item>补贴</item>
+        <item>股息红利</item>
+        <item>生产经营</item>
+        <item>其他所得</item>
+    </string-array>
+</resources>

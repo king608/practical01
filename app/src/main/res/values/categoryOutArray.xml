@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="out_category">
+        <item>文化教育支出</item>
+        <item>衣着支出</item>
+        <item>食品</item>
+        <item>日常用品支出</item>
+        <item>医疗保健</item>
+        <item>房租水电支出</item>
+        <item>其它支出</item>
+    </string-array>
+</resources>
